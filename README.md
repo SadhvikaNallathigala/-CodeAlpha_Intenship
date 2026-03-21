@@ -37,7 +37,7 @@ A Python-based project demonstrating fundamental programming concepts such as:
 - Conditional statements
 - User input handling
 
---- 
+---  
 
 ### 2️⃣ Task 2 – Stock Portfolio Tracker
 A simple Python program that allows users to track stock investments.
